@@ -41,21 +41,20 @@ totalBalance -= bet
 ALL RESULTS WILL BE POSTED IN RESULTS.MD, AND I WILL ALSO EXPORT TO CSV AND DO SOME LOG ANALYSIS LATER WHEN I'M NOT LAZY
 
 ### Test 1
-Starting balance: 15,000 bits ($14.78 at the time of writing)
-Base bet: 500 bits (~ $0.74)
-10 tests for each multiplier
-Final result: average final balance between all 10 tests
+Starting balance: 15,000 bits ($14.78 at the time of writing)  
+Base bet: 500 bits (~ $0.74)  
+10 tests for each multiplier  
+Final result: average final balance between all 10 tests  
 
 ### Test 2
-Starting balance: 50,000 bits ($73.78 at the time of writing)
-Base bet: 1500 bits (~ $2.21)
-10 tests for each multiplier
-Final result: average final balance between all 10 tests
+Starting balance: 50,000 bits ($73.78 at the time of writing)  
+Base bet: 1500 bits (~ $2.21)  
+10 tests for each multiplier  
+Final result: average final balance between all 10 tests  
 
 ### Test 3 + 4
 Same starting balances as test 1,2 respectively, and same base bets, and also 10 tests.
 However, on a LOSS, we will multiply our base bet by 3, and then return to our initial base bet if we win the second try. This is an attempt to "recover" from the loss. If the bot loses twice in a row (I've seen it happen), then the bot will sit out 7 games, and go back in at the initial base bet.
 
-# Results will be posted here, and source code behind the analysis will also be posted.
 # If you enjoyed this, or mildly interested, or hated it, show some love: 1NapRapFVzRAyazeoZkprmjXqN8yYxzoSL
 
