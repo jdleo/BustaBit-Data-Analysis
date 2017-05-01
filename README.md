@@ -10,11 +10,14 @@ So, in the chat of bustabit, there are chat commands where you can calculate the
 I want to test how much money you would gain **or lose** if you kept betting at a certain multiplier over a period of x amount of games. The creator of the website, Ryan, says the average time of a game (including wait time) is 30 seconds. So, we will be testing profit **or losses** over the course of 1,000 games, which is 30,000 seconds, or 8 hours and 20 minutes. So, this is if you left your computer running for this long, auto betting on a single multiplier. I want to find the most optimal multiplier.
 
 ## Probabilities of low multipliers
-I will only be testing the following multipliers, and their probabilities are below
-+ **1.05x**:
-+ **1.05x**:
-+ **1.05x**:
-+ **1.05x**:
-+ **1.05x**:
-+ **1.05x**:
-+ **1.05x**:
+I will only be testing the following 10 multipliers, and their probabilities are below
++ **1.06x**: 93.352192%
++ **1.08x**: 91.607292%
++ **1.1x**: 89.926424%
++ **1.12x**: 88.306128%
++ **1.16x**: 85.234610%
++ **1.2x**: 82.369581%
++ **1.24x**: 79.690896%
++ **1.3x**: 75.984343%
++ **1.36x**: 72.607261%
++ **1.42x**: 69.517590%
