@@ -1,3 +1,6 @@
+Starting balance: 15,000 bits
+Bets: 500 bits
+
 Multiplier: 1.06x
 Total Balance: 473930.0 bits
 Loss percentage: 0.069
